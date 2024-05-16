@@ -1,8 +1,7 @@
 ---
 title: "UN Votes"
 format:
-  html:
-    self-contained: true
+  pdf
 ---
 
 ## Introduction
